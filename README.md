@@ -13,3 +13,6 @@ npx create-react-native-app -t with-router
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
 - [Request for Comments](https://github.com/expo/router/discussions/1)
+
+IF YOU HAVE EXPO- FOLLOW THE LINK AND TRY THE APP.
+(if in case job is not fetched, just wonder free api request is done for the month)
